@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajdwip-69
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning  Shell Scripting , Linux , Git & Git Hub , YAML , Kubernets , AWS .
+- 🌱 I’m currently learning  Shell Scripting , Linux , Git & Git Hub , YAML , Kubernets , AWS ,Terraform .
 - 💞️ I’m looking to collaborate on Open Source Contribution
 - 📫 How to reach me Mail-ID - rajdwip8000@gmail.com
 - 😄 Pronouns: Mr Rajdwip Ghosh
