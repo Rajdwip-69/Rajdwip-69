@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajdwip-69
 - 👀 I’m interested in Python and Data Analyis
-- 🌱 I’m currently learning Numpy , Pandas , Excel
+- 🌱 I’m currently learning Numpy , Pandas , Excel , BI Tool
 - 💞️ I’m looking to collaborate on Open Source Contribution
 - 📫 How to reach me Mail-ID - rajdwip8000@gmail.com
 - 😄 Pronouns: Mr Rajdwip Ghosh
